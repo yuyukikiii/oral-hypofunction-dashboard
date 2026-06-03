@@ -2,6 +2,8 @@
 
 ## 🚀 **[VIEW LIVE DEMO →](https://oral-hypofunction.netlify.app/)**
 
+## 📂 **[VIEW ON GITHUB →](https://github.com/yuyukikiii/oral-hypofunction-dashboard)**
+
 ---
 
 ## Overview
@@ -68,7 +70,7 @@ oral-hypofunction-dashboard/
 │   ├── DATA_DICTIONARY.md   # Field definitions & data schema
 │   └── IMPLEMENTATION.md    # Technical architecture notes
 │
-├── assets/                  # (Optional) Map images, icons
+├── assets/                  # Map images, icons
 ├── screenshots/             # UI screenshots for documentation
 │   ├── home.png
 │   ├── demographics.png
@@ -239,6 +241,33 @@ For detailed methodology, see [METHODOLOGY.md](./docs/METHODOLOGY.md)
 
 ---
 
+## 🤝 Development Approach
+
+This project demonstrates practical use of modern development tools:
+
+### **Original Research & Data**
+- ✅ Epidemiological study design and data collection
+- ✅ 7-component diagnostic framework development
+- ✅ Clinical data validation and accuracy
+- ✅ Domain expertise (dental public health, geriatrics)
+
+### **Frontend Development**
+- ✅ UI/UX design with AI assistance (Claude)
+- ✅ Interactive features and data visualization
+- ✅ Responsive design implementation
+- ✅ Performance optimization
+
+### **Manual Implementation & Refinement**
+- ✅ Healthcare data integration and verification
+- ✅ Clinical accuracy review and validation
+- ✅ Responsive design testing and refinement
+- ✅ Deployment configuration and optimization
+
+### **Why This Approach**
+Leveraged AI for efficient frontend development while maintaining focus on healthcare data domain expertise—a practical approach commonly used in modern development teams to maximize productivity and domain accuracy.
+
+---
+
 ## 🛠️ Customization
 
 ### Add New Province
@@ -282,8 +311,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ## 📧 Contact & Acknowledgments
 
-**Original Author:** Public Health Dentistry Department  
-**Naresuan University, Thailand**
+**Original Author:** Yuyukikiii  
+**Department:** Public Health Dentistry Department, Naresuan University, Thailand
 
 ### Acknowledgments
 - Department of Dental Public Health, Ministry of Health, Thailand
@@ -294,21 +323,23 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ## 📊 Skills Demonstrated
 
-✅ Data Visualization  
-✅ Healthcare IT / Public Health Informatics  
-✅ Frontend Development (Vanilla JS/HTML5/CSS3)  
-✅ UX/UI Design  
+✅ Healthcare Data Analysis & Presentation  
+✅ Public Health Informatics  
+✅ Frontend Development (HTML5/CSS3/Vanilla JS)  
+✅ UX/UI Design & Implementation  
 ✅ Bilingual Development (Thai + English)  
-✅ Epidemiological Data Presentation  
-✅ Responsive Web Design  
+✅ Epidemiological Data Visualization  
+✅ Responsive & Accessible Web Design  
 ✅ Healthcare Domain Knowledge  
+✅ Modern Development Tool Integration  
+✅ Project Documentation & Deployment  
 
 ---
 
 ## 🎯 Deployment
 
-**Live:** https://oral-hypofunction.netlify.app/  
-**Repository:** https://github.com/yuyukikiii/oral-hypofunction-dashboard  
+**Live Demo:** https://oral-hypofunction.netlify.app/  
+**GitHub Repository:** https://github.com/yuyukikiii/oral-hypofunction-dashboard  
 **Platform:** Netlify (Auto-deploy from main branch)
 
 ---
