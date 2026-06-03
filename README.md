@@ -1,5 +1,9 @@
 # 🦷 Oral Hypofunction Demographics Dashboard
 
+## 🚀 **[VIEW LIVE DEMO →](https://oral-hypofunction.netlify.app/)**
+
+---
+
 ## Overview
 
 A modern, interactive healthcare data visualization dashboard for analyzing **Oral Hypofunction prevalence** among Thailand's aging population (60–74 years). Built for the Department of Dental Public Health, this dashboard presents complex epidemiological data through an intuitive, responsive interface.
@@ -54,10 +58,16 @@ Comprehensive oral assessment based on:
 oral-hypofunction-dashboard/
 ├── README.md                 # Project overview & usage guide
 ├── index.html               # Single-page application (HTML + CSS + JS)
+├── LICENSE                  # MIT License
+├── .gitignore              # Git ignore rules
+├── CONTRIBUTING.md         # Contribution guidelines
+├── netlify.toml            # Netlify deployment config
+│
 ├── docs/                    # Documentation
 │   ├── METHODOLOGY.md       # Study design & diagnostic criteria
 │   ├── DATA_DICTIONARY.md   # Field definitions & data schema
 │   └── IMPLEMENTATION.md    # Technical architecture notes
+│
 ├── assets/                  # (Optional) Map images, icons
 ├── screenshots/             # UI screenshots for documentation
 │   ├── home.png
@@ -254,7 +264,7 @@ Edit the 7-item checklist in the "ภาพรวมโครงการ" (Over
 
 ## 📄 License
 
-This project is part of Thailand's Department of Dental Public Health research initiative. Designed for educational and public health purposes.
+This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) file for details.
 
 ---
 
@@ -266,22 +276,43 @@ This is a research dashboard. Contributions welcome for:
 - 🌐 Localization (additional languages)
 - 📊 Additional data visualizations
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
 ---
 
-## 📧 Contact
+## 📧 Contact & Acknowledgments
 
 **Original Author:** Public Health Dentistry Department  
 **Naresuan University, Thailand**
 
----
-
-## 🙏 Acknowledgments
-
+### Acknowledgments
 - Department of Dental Public Health, Ministry of Health, Thailand
 - Department of Preventive Dentistry, Faculty of Dentistry, Naresuan University
 - 507 study participants across Thailand
 
 ---
 
+## 📊 Skills Demonstrated
+
+✅ Data Visualization  
+✅ Healthcare IT / Public Health Informatics  
+✅ Frontend Development (Vanilla JS/HTML5/CSS3)  
+✅ UX/UI Design  
+✅ Bilingual Development (Thai + English)  
+✅ Epidemiological Data Presentation  
+✅ Responsive Web Design  
+✅ Healthcare Domain Knowledge  
+
+---
+
+## 🎯 Deployment
+
+**Live:** https://oral-hypofunction.netlify.app/  
+**Repository:** https://github.com/yuyukikiii/oral-hypofunction-dashboard  
+**Platform:** Netlify (Auto-deploy from main branch)
+
+---
+
 **Last Updated:** June 2026  
-**Study Period:** Fiscal Year 2568 (2025)
+**Study Period:** Fiscal Year 2568 (2025)  
+**Version:** 1.0
